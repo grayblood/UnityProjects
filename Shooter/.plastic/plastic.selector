@@ -1,0 +1,4 @@
+repository "Shooter@AAAAAAAAAAAAAAAAAaAAAAAh@cloud"
+  path "/"
+    br "/main"
+    co "/main"

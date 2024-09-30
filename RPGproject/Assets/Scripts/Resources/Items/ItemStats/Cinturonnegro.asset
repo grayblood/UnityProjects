@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9f04e5249179e54cbef009c0a8b56f2, type: 3}
+  m_Name: Cinturonnegro
+  m_EditorClassIdentifier: 
+  name: Cinturon Negro
+  description: Aumenta el ataque
+  icon: {fileID: 6641753785953051027, guid: e4e0001e98d4b1f43b4f34d6e0c28b77, type: 3}
+  atk: 10
+  def: 0
+  vel: 0
+  hp: 0
+  hpPorcentaje: 0

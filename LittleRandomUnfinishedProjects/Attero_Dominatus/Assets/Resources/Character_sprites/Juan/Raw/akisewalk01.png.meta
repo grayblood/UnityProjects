@@ -1,0 +1,2258 @@
+fileFormatVersion: 2
+guid: 66d4204218b535f44bf5fa6682490120
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akisewalk01_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 225
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523570463b548464e8db6be559c40cac
+      internalID: -559756735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 225
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdec8c306d5b29447a2bda9a66f16a9d
+      internalID: 512368887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 225
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae091a0b4c28784459b1c11d3e9572ef
+      internalID: 732490332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 225
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e8c66d077acd547997e5b174f71aa8
+      internalID: 2129194016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c961a17e8a00bf45a2658418f355a5e
+      internalID: -649325357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 225
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7c6df44849d724aab9d6b0db3b01a6
+      internalID: 1645159741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 225
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1af40b5544d38d4f88353b80a515ce8
+      internalID: -328460611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 225
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5627b7e36c62464c916731ffedb6634
+      internalID: 420837759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 225
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62479b44966702640b256aa9f3ab0d01
+      internalID: 91357520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 225
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa3805e24161a45b7dcc5b3c8069da
+      internalID: 1801351126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 224
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bff03626ce501a47bfcf26d284c3138
+      internalID: -352131347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 225
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add82868e5407514e91fecbfc8e692ef
+      internalID: -375437866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 193
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915e994fdc069da4b9046801e541b52f
+      internalID: 1710360457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 193
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0332a639ea34a6e44bf3c384f4b52984
+      internalID: 1362840325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 193
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bcf6356d505df479ad83669733a77e
+      internalID: 499228471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 193
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54594336d3ee1f143bea6910827bd667
+      internalID: -1840231909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58439a5639add9e48a5462c3056cfe18
+      internalID: 1378037066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 193
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbb8079634b301439ef3bafcdb7cf3c
+      internalID: -352971249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 193
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d1c36b54008d74aa2df7f3c2165101
+      internalID: -347008584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 193
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0898c90968eb10b4195be266801e9412
+      internalID: -1075499557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 193
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2a8033d3baec142b36e0b6969dfef8
+      internalID: 107214110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 193
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d13d0645c7cef428dfe2a6d7bac0a8
+      internalID: 790158705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276212456e2dea74e86b83a828e81f58
+      internalID: 1015299208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 193
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49948d42436960a438265d72ae3337e7
+      internalID: 601070525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 161
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f808dcfaf58852249b0b431da5ced3c4
+      internalID: -2071846517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 161
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d0527fcfb309a4992ced6bdea974d1
+      internalID: -1721548395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 161
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da62118c8a46df4aac6499b584151bb
+      internalID: -1777174157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 161
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e96dc6c426641349a26872a71055cb5
+      internalID: -734174207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599f0ec1588e97648ab83263aff77a13
+      internalID: -997854778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 161
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e6eed8566025342bf32c7f2eb4b780
+      internalID: -809424005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 161
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d51a96768aeb6e4dbf88a837bd3eaaf
+      internalID: 2021785875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 161
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625dbb8b6e8357847b2f5cff84f7e30c
+      internalID: -1540585061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 161
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43281efb406912b4d820c1e37f0f4bc4
+      internalID: 1932094142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 161
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a8b03c455bad24ca3bbfc5166721fa
+      internalID: -68658048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 160
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e085400941c1e41beaff701175319a
+      internalID: 616118191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_35
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 161
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea4fd061a6401a42bd8f93432ab4e52
+      internalID: 801224463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 129
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38f4725c4766294ebdee80f5e67d806
+      internalID: 1336265949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_37
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 129
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ecc985ee15134459ca251a63ea4c36
+      internalID: -1678968182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 129
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66c1106e5e6eb645913dc8226454ce4
+      internalID: -1702358745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_39
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 129
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af58f58aca955647a01a87091c82ee3
+      internalID: 934851185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_40
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 128
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9da5700da14f74287d1cff5ce6de22
+      internalID: 334389695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_41
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 129
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dc2b4a49d5b7c42b26b36562175deb
+      internalID: -1582420000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_42
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 129
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a86791632134fd49a6ded2e3b2865ff
+      internalID: -1682375452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_43
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 129
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7022877cbdeb048ad09c7669ae4b4c
+      internalID: -1313885278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_44
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 129
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8825743eb387534ea17c0fbade0ff01
+      internalID: -1520831648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 129
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbd1a5fc90e4784db40a6db1a0ade9a
+      internalID: -418742238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_46
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 128
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc36ea983aea8e499f277b18d350d62
+      internalID: -476881628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_47
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 129
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe23fc537685398449137bd08c2c1d05
+      internalID: -981771224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 97
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddb52e3f195c5a4c8809e3420afb915
+      internalID: 1648433025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_49
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 97
+        width: 15
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9c0b7099c6cf747bb3e4d5bfdbad0c
+      internalID: 1089629841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_50
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 97
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279be317e126ae840b19c71efdc22927
+      internalID: 1213374779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_51
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 97
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e4d8603925dd945b16935dadfceafc
+      internalID: 2086064215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_52
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 97
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2970d2a815b974eb43938b223d07ff
+      internalID: -15419011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_53
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 97
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240ed4b594445d04b82f1ddab0ed83cd
+      internalID: -229680697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_54
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 97
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2716328db2202a64595a88b2d389e02d
+      internalID: 371483685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_55
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 97
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2cb7914dc1cc447b7fe4ef07106cf2
+      internalID: -2063925700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_56
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 97
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e4bd390ff50634fa4921c574c5994c
+      internalID: 1605398518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 97
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b729e1e4e69114a96040db5272df77
+      internalID: -663758309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_58
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 97
+        width: 18
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbec9469687745848b0cf7dc491f5f3f
+      internalID: 639739745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_59
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 97
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb7db71db8e4a64cb851652b26c07e1
+      internalID: -442427634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 14
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f205da61e218f1247b41c0354e43d4ca
+      internalID: 2032294690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_61
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 65
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a7f4419345d13469591d75adbe1df9
+      internalID: 535030701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_62
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 65
+        width: 14
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91738bb504ea34042bf9205fd95550af
+      internalID: -97596598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_63
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 65
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea49d63a049f1e47af80d69188e199e
+      internalID: -1370816817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_64
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 65
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e816e3431577f4ca3fde4454719111
+      internalID: -104399700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_65
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 65
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ac5d8633ef41f4090f5ea7dcde3dba
+      internalID: 881190982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_66
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 65
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1629c3378ff62b34fa8ad2a774fd3560
+      internalID: 781762529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_67
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 65
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2721c87ba6d3f924bae5a02b37edbaae
+      internalID: -925171972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 65
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2a0982caf1295418cb177822af69d5
+      internalID: 1997190458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_69
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 65
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c3d1d6b7eaf7b418d1f17a7cce4d79
+      internalID: -2010670898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_70
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 65
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b29be19d7a5b14da6ae4e79b8e533c
+      internalID: 1263629527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_71
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 65
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626b3e37f96eebc46b6e7fc727feca91
+      internalID: 1507353085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 33
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095ac5c4484f55e41907f7f21d39ed35
+      internalID: 960101376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_73
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 33
+        width: 15
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a351ab3e62668e43966ccf61ebbd977
+      internalID: -1941375779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_74
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 33
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0687d5cea68fd6f4b875056c596b9f94
+      internalID: 1795460064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_75
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 33
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6b8f475a133a04fa12ed7491f51cea
+      internalID: 1144116772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_76
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 33
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4804086abeda4334dada367f318bce6b
+      internalID: 2032839413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_77
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 33
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82213ca052ef11942bef4a19e0d42e38
+      internalID: -509396303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_78
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 33
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ccddcb9f7f38e42ae9c89c4c386d86
+      internalID: -200998830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_79
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 33
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b162210d134d9674bb5e712d7d38dcc1
+      internalID: -754571618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_80
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 33
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6caa7b7db65f24f9808e2633b9f1b0
+      internalID: 1638217583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_81
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 33
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c47edb5f3c8d4419070c0c936e7aa3
+      internalID: 493352532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_82
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 33
+        width: 18
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfdeccc614e60749b38aefa65c860b3
+      internalID: 714313224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_83
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 33
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12074817fef96d42a87c45034af2eb3
+      internalID: 113858301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 14
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde9dd38f22d6094ea9786ef1445ce9a
+      internalID: -73510607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_85
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49508a9c6d95314ca8b7f4df9b4218b
+      internalID: -1683259920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_86
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 14
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d30d69f55a4d94cacc47350fd86121
+      internalID: -891670887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_87
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf41a0750aa97c34283e510e7ea334c6
+      internalID: 423455418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_88
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad465eca3397bdf4b97e8b9c93ec96e2
+      internalID: 247531783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_89
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0b45ea2b746564e842c5c1c87e6285
+      internalID: -1043573924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83674ae953c55ed4d83ee7d3a91b7615
+      internalID: 904797102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_91
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502c20c6017446b4fbb46d5147075f70
+      internalID: 84955214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_92
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e481739b41b3d874c86bd3d850c34d2a
+      internalID: 352231547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_93
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4118f5deaa50ba4eb4edf98689895da
+      internalID: 721635889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_94
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f2885f941040840bd172dad06a740d
+      internalID: -956383421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akisewalk01_95
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1924d62ed728f4ebc9733856ce3387
+      internalID: 1797625586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      akisewalk01_86: -891670887
+      akisewalk01_36: 1336265949
+      akisewalk01_80: 1638217583
+      akisewalk01_15: -1840231909
+      akisewalk01_76: 2032839413
+      akisewalk01_30: 2021785875
+      akisewalk01_28: -997854778
+      akisewalk01_69: -2010670898
+      akisewalk01_51: 2086064215
+      akisewalk01_73: -1941375779
+      akisewalk01_40: 334389695
+      akisewalk01_4: -649325357
+      akisewalk01_9: 1801351126
+      akisewalk01_12: 1710360457
+      akisewalk01_82: 714313224
+      akisewalk01_89: -1043573924
+      akisewalk01_41: -1582420000
+      akisewalk01_68: 1997190458
+      akisewalk01_79: -754571618
+      akisewalk01_16: 1378037066
+      akisewalk01_44: -1520831648
+      akisewalk01_72: 960101376
+      akisewalk01_45: -418742238
+      akisewalk01_95: 1797625586
+      akisewalk01_32: 1932094142
+      akisewalk01_33: -68658048
+      akisewalk01_43: -1313885278
+      akisewalk01_24: -2071846517
+      akisewalk01_65: 881190982
+      akisewalk01_8: 91357520
+      akisewalk01_60: 2032294690
+      akisewalk01_26: -1777174157
+      akisewalk01_34: 616118191
+      akisewalk01_71: 1507353085
+      akisewalk01_23: 601070525
+      akisewalk01_19: -1075499557
+      akisewalk01_7: 420837759
+      akisewalk01_13: 1362840325
+      akisewalk01_55: -2063925700
+      akisewalk01_2: 732490332
+      akisewalk01_77: -509396303
+      akisewalk01_53: -229680697
+      akisewalk01_18: -347008584
+      akisewalk01_61: 535030701
+      akisewalk01_87: 423455418
+      akisewalk01_31: -1540585061
+      akisewalk01_50: 1213374779
+      akisewalk01_20: 107214110
+      akisewalk01_83: 113858301
+      akisewalk01_67: -925171972
+      akisewalk01_39: 934851185
+      akisewalk01_84: -73510607
+      akisewalk01_3: 2129194016
+      akisewalk01_21: 790158705
+      akisewalk01_6: -328460611
+      akisewalk01_58: 639739745
+      akisewalk01_5: 1645159741
+      akisewalk01_37: -1678968182
+      akisewalk01_42: -1682375452
+      akisewalk01_38: -1702358745
+      akisewalk01_93: 721635889
+      akisewalk01_11: -375437866
+      akisewalk01_94: -956383421
+      akisewalk01_48: 1648433025
+      akisewalk01_54: 371483685
+      akisewalk01_57: -663758309
+      akisewalk01_0: -559756735
+      akisewalk01_1: 512368887
+      akisewalk01_64: -104399700
+      akisewalk01_78: -200998830
+      akisewalk01_29: -809424005
+      akisewalk01_85: -1683259920
+      akisewalk01_62: -97596598
+      akisewalk01_35: 801224463
+      akisewalk01_22: 1015299208
+      akisewalk01_88: 247531783
+      akisewalk01_63: -1370816817
+      akisewalk01_10: -352131347
+      akisewalk01_81: 493352532
+      akisewalk01_46: -476881628
+      akisewalk01_27: -734174207
+      akisewalk01_66: 781762529
+      akisewalk01_59: -442427634
+      akisewalk01_74: 1795460064
+      akisewalk01_47: -981771224
+      akisewalk01_49: 1089629841
+      akisewalk01_25: -1721548395
+      akisewalk01_91: 84955214
+      akisewalk01_92: 352231547
+      akisewalk01_17: -352971249
+      akisewalk01_52: -15419011
+      akisewalk01_75: 1144116772
+      akisewalk01_90: 904797102
+      akisewalk01_14: 499228471
+      akisewalk01_70: 1263629527
+      akisewalk01_56: 1605398518
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+repository "Mirror@AAAAAAAAAAAAAAAAAaAAAAAh@cloud"
+  path "/"
+    br "/main"
+    co "/main"
